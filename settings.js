@@ -25,9 +25,9 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
+global.botname = "Marmut" //namabot kalian
+global.ownername= "ᴹᴿ᭄ Rahman ×፝֟͜×" //nama kalian
+global.myweb ="https://api.kontoloyo.ez" //bebas asal jan hapus
 global.youtube = "https://xnxx.com" //bebas asal jan hapus
 global.myweb2 = "https://brazzer.com" //bebas
 global.email = "bacotluhsemuakontol@gmail.com" //bebas
